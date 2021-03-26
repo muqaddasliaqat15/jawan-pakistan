@@ -1,0 +1,64 @@
+body{
+   padding:o;
+   margin:0;
+   background-color: #f8f8f8;
+}
+nav{
+    background-color: 	#eae7e8;
+
+}
+ul{
+    
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 140px;
+}
+ul>li{
+    list-style-type: none;
+    float: right;
+}
+li{
+    display: inline-block;
+    padding:20px;
+}
+li>a.home{
+    text-decoration: none;
+    color:#cb3362;
+}
+li>a{
+     text-decoration: none;
+     color:black;
+}
+h3{
+    position: absolute;
+    top:850px;
+    padding-left:390px;
+    color:#606060;
+}
+h2{
+    position: absolute;
+    top:890px;
+    padding-left:340px;
+    color:#cb3362;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p{
+    position: absolute;
+    top:950px;
+    padding-left:300px;
+    color:#606060;
+}
+.logo_image{
+    position: absolute;
+    top:790px;
+    padding-left:680px;
+}
+li>.product{
+    padding-left:80px;
+}
+li>span{
+    padding-left:80px;
+}
